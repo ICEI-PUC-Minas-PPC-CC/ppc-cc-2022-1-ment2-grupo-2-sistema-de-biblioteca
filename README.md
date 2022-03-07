@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# SISTEMA DE BIBLIOTECA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,14 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- THAINARA
+- LUIZ PEDRO
+- THIAGO
+- LEONARDO MORAES
 
 ## Professor
 
-- Mestre Yoda
+- WILL 
 
 # Documentação
 
