@@ -1,13 +1,19 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto visa o acesso de alunos do ensino médio, sem as devidas condições monetárias para compra de matérias de estudo. Uma boa parte dos alunos hoje 
+de escolas mais carentes tem acesso a dispositivo móvel com acesso a internet porém muitas vezes, não tem condições de comprar livros, e-books e nem acesso 
+a livros que muitas vezes estão em bibliotecas e sob controle de universidades também.
+Desse modo o projeto visa o acesso desses alunos carentes do ensino médio a essa informação que muitas vezes não é pública.'
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+## Problema.
+#Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
+vezes são pagos ou até estão em lugares como bibliotecas universitárias onde eles não conseguem o acesso.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O contexto da aplicação seria ou em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até um site, o ideal seria de forma mobile
+possibilitando assim a qualquer um que tenha um despositivo móvel, consiga acesso ao material.
+O público alvo seria os alunos, como também as escolas mais carentes da região com um link direto com bibliotecas públicas e universitárias.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+# Desenvolimento do estudo graficamente
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
