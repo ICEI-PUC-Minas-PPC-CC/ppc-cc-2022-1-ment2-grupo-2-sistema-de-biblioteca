@@ -9,7 +9,7 @@ Desse modo o projeto visa o acesso desses alunos carentes do ensino médio a ess
 Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
 vezes são pagos ou até estão em lugares como bibliotecas universitárias onde eles não conseguem o acesso.
 
-O contexto da aplicação seria ou em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até um site, o ideal seria de forma mobile
+O contexto da aplicação poderá ser em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até mesmo em um site, o ideal seria de forma mobile
 possibilitando assim a qualquer um que tenha um despositivo móvel, consiga acesso ao material.
 O público alvo seria os alunos, como também as escolas mais carentes da região com um link direto com bibliotecas públicas e universitárias.
 
@@ -22,12 +22,13 @@ O público alvo seria os alunos, como também as escolas mais carentes da regiã
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O projeto concentrará diversos livros e links de matérias do âmbito escolar, que por sua vez, proporcionará uma melhor utilização por parte dos alunos. Por meio de um aplicativo e site, poderemos diponibilzar inúmeros matériais que podem se tornar essenciais à quem utilizá-los.
 
-Apresente também alguns -(pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Alguns livros que são requisitados em vestibulares, estão em domínio público, mas alguns alunos que não sabem disso acabam os adquirindo, porém sem condição financeira.
+diante dessa situação o nosso projeto poderá resolver esse problema.
+
+Por meio de autorizações, iremos melhorar a vizualização e a acessibilidade de materiais que são carentes em algumas instituições de ensino. Temos amplas bibliotecas na internet 
+que dispõem de incontáveis materiais de estudos.
 
 ## Justificativa
 
