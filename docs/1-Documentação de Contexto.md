@@ -6,7 +6,7 @@ a livros que muitas vezes estão em bibliotecas e sob controle de universidades 
 Desse modo o projeto visa o acesso desses alunos carentes do ensino médio a essa informação que muitas vezes não é pública.'
 
 ## Problema.
-#Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
+Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
 vezes são pagos ou até estão em lugares como bibliotecas universitárias onde eles não conseguem o acesso.
 
 O contexto da aplicação seria ou em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até um site, o ideal seria de forma mobile
