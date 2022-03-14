@@ -7,8 +7,8 @@
 ## Integrantes
 
 - THAINARA
-- LUIZ PEDRO
-- THIAGO
+- LUIZ PEDRO (998458696)
+- THIAGO (997309122)
 - LEONARDO MORAES
 
 ## Professor
