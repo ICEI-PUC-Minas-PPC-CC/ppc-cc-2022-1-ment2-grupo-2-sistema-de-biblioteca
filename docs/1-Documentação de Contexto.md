@@ -1,7 +1,7 @@
 # Introdução
 
-O projeto visa o acesso de alunos do ensino médio, sem as devidas condições monetárias para compra de matérias de estudo. Uma boa parte dos alunos hoje 
-de escolas mais carentes tem acesso a dispositivo móvel com acesso a internet porém muitas vezes, não tem condições de comprar livros, e-books e nem acesso 
+O projeto visa o acesso de alunos do ensino médio, sem as devidas condições monetárias para compra de materiais de estudo. Uma boa parte dos alunos hoje 
+de escolas mais carentes tem acesso aos dispositivos móveis com acesso a internet porém muitas vezes, não tem condições de comprar livros, e-books e nem acesso 
 a livros que muitas vezes estão em bibliotecas e sob controle de universidades também.
 Desse modo o projeto visa o acesso desses alunos carentes do ensino médio a essa informação que muitas vezes não é pública.'
 
@@ -32,9 +32,13 @@ que dispõem de incontáveis materiais de estudos.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A ideia principal de construir um aplicativo que forneça material didático para a população carente surge da necessidade de democratização da educação e tem como premissa possibilitar que cada vez mais o ensino possa ser difundido da melhor maneira possível. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A falta de acesso aos materiais didáticos e livros atualmente afeta grande parte da população de baixa renda no Brasil. Infelizmente, o descaso dos órgãos públicos para com essas pessoas contribui a longo prazo para o aumento da desigualdade social e consequentemente impacta nos mais variados setores da sociedade.
+
+O jornal Diário do Nordeste publicou, em março de 2021, uma reportagem sobre a falta de material didático que exemplifica perfeitamente o problema em questão: alunos sem acesso aos livros escolares e não conseguindo realizar suas atividades e tendo que se virar como podem através de fotos manuais para conseguirem estudar.
+
+Este, entretanto, é apenas um dos exemplos que demonstram a necessidade de um aplicativo que possibilite um grande avanço no sistema educacional brasileiro.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
