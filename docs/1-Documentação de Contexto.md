@@ -47,11 +47,11 @@ Gênero: Homens e Mulheres;
 
 Idade: Entre 15 e 19 anos;
 
-Ocupação: Estudantes do Ensino Médio;
+Ocupação: Estudante do Ensino Médio;
 
 Escolaridade: Ensino Fundamental;
 
-Renda: Renda Familiar até 4 Salários-Mínimos;'
+Renda: Renda Familiar até 4 Salários-Mínimos;
 
-Relação com a tecnologia: Provável facilidade com o uso de novas tecnologias.
+Relação com a tecnologia: Facilidade com o uso de novas tecnologias.
 
