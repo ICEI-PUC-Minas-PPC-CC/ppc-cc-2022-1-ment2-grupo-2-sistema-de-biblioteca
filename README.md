@@ -1,8 +1,8 @@
 # SISTEMA DE BIBLIOTECA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: MENTORING II`
+`2022 - Semestre 1`
 
 ## Integrantes
 
