@@ -7,12 +7,14 @@
  Assim que o sistema avisar ambos, o livro será deixado aos cuidados da escola assim ela sendo esse intermediário da doação.
 
 ## Problema.
-Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
-vezes são pagos ou até estão em lugares como bibliotecas universitárias onde eles não conseguem o acesso.
+ Considerando um deficit crescente no sistema educacional brasileiro, mesmo no setor privado onde muitas vezes existe a falta de material 
+ escolar aadequado para os alunos mais carentes, pensou-se em uma solução para esse problema focado no matérial didático impresso no primeiro momento. 
+ Vale lembrar que mesmo em sistemas particulares temos alunos bolsistas que necessistam desse apoio que a escola muitas vezes não consegue
+ suprir tal carência, seja por falta de repasse monetário do governo federal ou por atraso de pagamento de mensalidades ou outros fatores.
 
 O contexto da aplicação poderá ser em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até mesmo em um site, o ideal seria de forma mobile
 possibilitando assim a qualquer um que tenha um despositivo móvel, consiga acesso ao material.
-O público alvo seria os alunos, como também as escolas mais carentes da região com um link direto com bibliotecas públicas e universitárias.
+O público alvo seria os alunos, como também a escola a primeiro momento escolhida e obtendo sucesso, sendo distribuído entre outras escolas.
 
 # Desenvolimento do estudo graficamente
 
