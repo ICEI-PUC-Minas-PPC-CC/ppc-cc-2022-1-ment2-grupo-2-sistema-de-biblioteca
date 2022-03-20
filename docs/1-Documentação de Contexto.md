@@ -1,9 +1,10 @@
 # Introdução
 
-O projeto visa o acesso de alunos do ensino médio, sem as devidas condições monetárias para compra de materiais de estudo. Uma boa parte dos alunos hoje 
-de escolas mais carentes tem acesso aos dispositivos móveis com acesso a internet porém muitas vezes, não tem condições de comprar livros, e-books e nem acesso 
-a livros que muitas vezes estão em bibliotecas e sob controle de universidades também.
-Desse modo o projeto visa o acesso desses alunos carentes do ensino médio a essa informação que muitas vezes não é pública.'
+ O projeto visa a troca de conhecimento e reuso de livros educacionais muitas vezes esquecidos no fundo da gaveta dos alunos e ex-alunos de uma escola 
+ escolhida pelo projeto. Criando um sistema onde alunos e ex-alunos possam se cadastrar, e quem possa ter um livro 
+ de matérias basicas no ensino fundamental e médio possa cadastrar dizendo que tem tal livro disponível para a doação. E do outro lado um aluno 
+ que precise do mesmo livro, se cadastra no sistema dizendo que procura tal livro, e assim o sistema realiza um "match" de oferta e demanda. 
+ Assim que o sistema avisar ambos, o livro será deixado aos cuidados da escola assim ela sendo esse intermediário da doação.
 
 ## Problema.
 Considerando um deficit crescente no sistema educacional brasileiro, pensou-se em como seria o acesso de alunos do ensino médio a materiais online, que muitas
