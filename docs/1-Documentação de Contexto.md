@@ -33,7 +33,7 @@ que dispõem de incontáveis materiais de estudos.
 
 ## Justificativa
 
-A ideia principal de construir um aplicativo que forneça material didático para a população carente surge da necessidade de democratização da educação e tem como premissa possibilitar que cada vez mais o ensino possa ser difundido da melhor maneira possível. 
+A ideia principal de construir um aplicativo de reutilização de material didático surge da necessidade de democratização da educação e tem como premissa possibilitar que cada vez mais o ensino possa ser difundido da melhor maneira possível. 
 
 A falta de acesso aos materiais didáticos e livros atualmente afeta grande parte da população de baixa renda no Brasil. Infelizmente, o descaso dos órgãos públicos para com essas pessoas contribui a longo prazo para o aumento da desigualdade social e consequentemente impacta nos mais variados setores da sociedade.
 
@@ -41,8 +41,7 @@ O jornal Diário do Nordeste publicou, em março de 2021, uma reportagem sobre a
 
 Este, entretanto, é apenas um dos exemplos que demonstram a necessidade de um aplicativo que possibilite um grande avanço no sistema educacional brasileiro.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com a implementação de um aplicativo que permita que ex-alunos e alunos possam se comunicar e conseguirem, por intermediação da escola, reutilizarem livros e materiais didáticos que não são mais usados, podemos contribuir para a difusão do acesso ao conhecimento e ainda evitar o desperdício de itens tão essenciais no âmbito atual.
 
 ## Público-Alvo
 
