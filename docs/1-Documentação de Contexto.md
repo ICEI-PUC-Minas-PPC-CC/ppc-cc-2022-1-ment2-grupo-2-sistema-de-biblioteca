@@ -53,8 +53,6 @@ Ocupação: Estudante do Ensino Médio;
 
 Escolaridade: Ensino Fundamental;
 
-Renda: Renda Familiar até 4 Salários-Mínimos;
-
 Relação com a tecnologia: Facilidade com o uso de novas tecnologias.
 
 ## Contato
