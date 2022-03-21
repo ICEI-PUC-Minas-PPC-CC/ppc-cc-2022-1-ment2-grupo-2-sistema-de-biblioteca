@@ -11,6 +11,12 @@
 - THIAGO (35 9 97309122)
 - LEONARDO MORAES (35) 9 9231-6059
 
+## CONTATO
+- Professora Tatiane Ribas 
+- Número: (35) 9 9829-1470 
+- Escola: Objetivo
+
+
 ## Professor
 
 - WILL 
