@@ -23,13 +23,11 @@ O público alvo seria os alunos, como também a escola a primeiro momento escolh
 
 ## Objetivos
 
-O projeto concentrará diversos livros e links de matérias do âmbito escolar, que por sua vez, proporcionará uma melhor utilização por parte dos alunos. Por meio de um aplicativo e site, poderemos diponibilzar inúmeros matériais que podem se tornar essenciais à quem utilizá-los.
+O projeto concentrará diversos livros de matérias do âmbito escolar, que por sua vez, proporcionará uma melhor utilização por parte dos alunos. Por meio de um aplicativo e site, poderemos diponibilzar aos doadores inúmeras forma de distribuir matériais que podem se tornar essenciais à quem utilizá-los.
 
-Alguns livros que são requisitados em vestibulares, estão em domínio público, mas alguns alunos que não sabem disso acabam os adquirindo, porém sem condição financeira.
-diante dessa situação o nosso projeto poderá resolver esse problema.
+Alguns livros que são requisitados em vestibulares, mas alguns alunos acabam os adquirindo, porém sem condição financeira. Com o aplicativo ou site desenvolvido poderemos oferecer uma grande ajuda aos que necessitam.
 
-Por meio de autorizações, iremos melhorar a vizualização e a acessibilidade de materiais que são carentes em algumas instituições de ensino. Temos amplas bibliotecas na internet 
-que dispõem de incontáveis materiais de estudos.
+Por meio de autorizações, iremos melhorar a vizualização e a acessibilidade de materiais que são carentes em algumas instituições de ensino. Temos inumeras pessoas que dispõem de incontáveis materiais de estudos, e que por motivos diversos não os utilizam mais e desejam passar a a frente.
 
 ## Justificativa
 
