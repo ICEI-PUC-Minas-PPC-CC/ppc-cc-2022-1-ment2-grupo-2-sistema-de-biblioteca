@@ -1,4 +1,4 @@
-# SISTEMA DE BIBLIOTECA
+# APLICATIVO - DOAÇÃO DE LIVROS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`
