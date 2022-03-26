@@ -10,16 +10,11 @@ Dessa forma, após finalizados os livros agora não são mais inutilizados, mas 
 
 ## Problema.
 
- A falta de acesso a material didático não é um problema atual, entretanto, com a pandemia, o problema se intensificou e muitos alunos foram prejudicados 
+É de consenso geral que a leitura é um hábito primordial na vida de todos. Entretanto, com exceção dos colecionadores, o livro após ser terminado não tem mais finalidade. Sendo assim, não existe a necessidade de deixá-lo guardado na estante sendo que este poderia ser passado para frente em troca o leitor poderia adquirir outros títulos.
 
- Considerando um deficit crescente no sistema educacional brasileiro, mesmo no setor privado onde muitas vezes existe a falta de material 
- escolar aadequado para os alunos mais carentes, pensou-se em uma solução para esse problema focado no matérial didático impresso no primeiro momento. 
- Vale lembrar que mesmo em sistemas particulares temos alunos bolsistas que necessistam desse apoio que a escola muitas vezes não consegue
- suprir tal carência, seja por falta de repasse monetário do governo federal ou por atraso de pagamento de mensalidades ou outros fatores.
+O termo japonês "Tsundoku", originado no século 19 e que pode ser traduzido do japonês analogamente para "acumular mais livros do que você pode ler" ou "comprar livros que você nem vai ler" é uma ótima representação do que o problema se trata. Para mais informações sobre o assunto, segue a seguinte matéria do site eCycle: https://www.ecycle.com.br/tsundoku/.
 
-O contexto da aplicação poderá ser em forma de aplicativo para os dispositivos móveis de forma gratuíta ou até mesmo em um site, o ideal seria de forma mobile
-possibilitando assim a qualquer um que tenha um despositivo móvel, consiga acesso ao material.
-O público alvo seria os alunos, como também a escola a primeiro momento escolhida e obtendo sucesso, sendo distribuído entre outras escolas.
+Muitas vezes, a compra descontínua de títulos e a acumulação compulsiva pode levar o leitor a obssessão, e não se desfazer de nenhum é um claro indício de que é necessário construir um ideal de compartilhamento e de desapego dos bens materiais.
 
 ## Objetivos
 
