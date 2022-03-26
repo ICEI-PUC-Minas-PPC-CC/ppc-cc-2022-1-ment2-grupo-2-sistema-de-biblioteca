@@ -15,7 +15,7 @@ conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o 
 Porém como os livros que gostaria de ler sobre as novas matérias estão com um valor muito alto para ela no momento,
 e não encontra todos ou com os assuntos que precisa nas bibliotecas e seria bom um sistema onde ela conseguisse esses livros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Entendo melhor o que é uma "persona" com os seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
