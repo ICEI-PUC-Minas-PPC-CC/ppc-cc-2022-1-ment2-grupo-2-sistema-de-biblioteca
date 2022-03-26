@@ -26,15 +26,13 @@ O objetivo principal do projeto, além de evitar o acúmulo desenfreado, é repa
 
 ## Justificativa
 
-A ideia principal de construir um aplicativo de reutilização de material didático surge da necessidade de democratização da educação e tem como premissa possibilitar que cada vez mais o ensino possa ser difundido da melhor maneira possível. 
+A ideia principal de construir um aplicativo de troca de livros surge da necessidade de difundir cada vez mais o hábito da leitura 
+e tem como premissa possibilitar que os livros, após finalizados, não vão para um fundo de gaveta sem utilidade alguma.
 
-A falta de acesso aos materiais didáticos e livros atualmente afeta grande parte da população de baixa renda no Brasil. Infelizmente, o descaso dos órgãos públicos para com essas pessoas contribui a longo prazo para o aumento da desigualdade social e consequentemente impacta nos mais variados setores da sociedade.
+Na casa dos leitores assíduos, muitas vezes são encontradas verdadeiras bibliotecas contendo centenas de títulos empoeirados que nunca vão ser relidos. Por que
+manter objetos de conhecimento tão importantes dessa forma quando existe a possibilidade de passá-los para frente e contribuir com a democratização do conhecimento, além de obter novos conhecimentos através dos livros recebidos na troca?
 
-O jornal Diário do Nordeste publicou, em março de 2021, uma reportagem sobre a falta de material didático que exemplifica perfeitamente o problema em questão: alunos sem acesso aos livros escolares e não conseguindo realizar suas atividades e tendo que se virar como podem através de fotos manuais para conseguirem estudar.
-
-Este, entretanto, é apenas um dos exemplos que demonstram a necessidade de um aplicativo que possibilite um grande avanço no sistema educacional brasileiro.
-
-Com a implementação de um aplicativo que permita que ex-alunos e alunos possam se comunicar e conseguirem, por intermediação da escola, reutilizarem livros e materiais didáticos que não são mais usados, podemos contribuir para a difusão do acesso ao conhecimento e ainda evitar o desperdício de itens tão essenciais no âmbito atual.
+A acumulação de materiais é uma prática desnecessária e que deve ser evitada. Dessa forma, a construção de uma aplicação que permita a realização dessa troca de forma simples e rápida contribui para que o ciclo de vida de um livro seja maior do que apenas compra, leitura e inutilização.
 
 ## Público-Alvo
 
