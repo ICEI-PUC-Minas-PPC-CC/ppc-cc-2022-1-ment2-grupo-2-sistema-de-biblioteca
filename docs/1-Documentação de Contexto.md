@@ -1,10 +1,10 @@
 # Introdução
 
- O projeto visa a troca de conhecimento e reuso de livros educacionais muitas vezes esquecidos no fundo da gaveta dos alunos e ex-alunos de uma escola 
- escolhida pelo projeto. Criando um sistema onde alunos e ex-alunos possam se cadastrar, e quem possa ter um livro 
- de matérias basicas no ensino fundamental e médio possa cadastrar dizendo que tem tal livro disponível para a doação. E do outro lado um aluno 
- que precise do mesmo livro, se cadastra no sistema dizendo que procura tal livro, e assim o sistema realiza um "match" de oferta e demanda. 
- Assim que o sistema avisar ambos, o livro será deixado aos cuidados da escola assim ela sendo esse intermediário da doação.
+É de compreensão geral que, após a escola, os livros e materiais didáticos que anteriormente eram utilizados pelo aluno durante o ano são agora encontrados em um fundo de gaveta e na maior parte das vezes, inutilizados.
+
+Sendo assim, o projeto visa a construção de uma ferramenta que possibilite a reutilização desses materiais através de uma ligação entre alunos que buscam se desfazer dos livros com aqueles que gostariam de receber, de forma a evitar o desperdício e permitir que cada vez mais estudantes tenham acesso a informação, independente da condição.
+
+Criando um sistema onde alunos e ex-alunos possam se cadastrar, oferecer os livros disponíveis para doação e, do outro lado, um estudante que precise do material possa realizar uma busca e escolher o livro de acordo com a sua necessidade. Nesse processo, o sistema realiza um "match" de oferta e demanda, onde o livro agora pode ser deixado na instituição escolar (que funciona como uma intermediária), aguardando ser retirado pelo aluno.
 
 ## Problema.
 
