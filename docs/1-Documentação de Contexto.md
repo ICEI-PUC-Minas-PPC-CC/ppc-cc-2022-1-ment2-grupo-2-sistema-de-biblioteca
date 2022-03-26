@@ -8,6 +8,8 @@ Criando um sistema onde alunos e ex-alunos possam se cadastrar, oferecer os livr
 
 ## Problema.
 
+ A falta de acesso a material didático não é um problema atual, entretanto, com a pandemia, o problema se intensificou e muitos alunos foram prejudicados 
+
  Considerando um deficit crescente no sistema educacional brasileiro, mesmo no setor privado onde muitas vezes existe a falta de material 
  escolar aadequado para os alunos mais carentes, pensou-se em uma solução para esse problema focado no matérial didático impresso no primeiro momento. 
  Vale lembrar que mesmo em sistemas particulares temos alunos bolsistas que necessistam desse apoio que a escola muitas vezes não consegue
@@ -39,13 +41,11 @@ Com a implementação de um aplicativo que permita que ex-alunos e alunos possam
 
 ## Público-Alvo
 
-Público-alvo- Sistema de Biblioteca
+Público-alvo - Aplicativo de Troca de Livros
 
-Gênero: Estudantes;
+Gênero: Homens e Mulheres;
 
 Idade: Entre 5 e 17 anos;
-
-Ocupação: Estudante do Ensino Médio;
 
 Escolaridade: Ensino Fundamental e Médio;
 
