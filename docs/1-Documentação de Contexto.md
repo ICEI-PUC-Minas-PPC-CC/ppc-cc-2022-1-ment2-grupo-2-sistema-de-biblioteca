@@ -41,21 +41,21 @@ Com a implementação de um aplicativo que permita que ex-alunos e alunos possam
 
 Público-alvo- Sistema de Biblioteca
 
-Gênero: Homens e Mulheres;
+Gênero: Estudantes;
 
-Idade: Entre 15 e 19 anos;
+Idade: Entre 5 e 17 anos;
 
 Ocupação: Estudante do Ensino Médio;
 
-Escolaridade: Ensino Fundamental;
+Escolaridade: Ensino Fundamental e Médio;
 
-Relação com a tecnologia: Facilidade com o uso de novas tecnologias.
+Relação com a tecnologia: Implementação de um Aplicativo Mobile;
 
 ## Contato
 
-Local de trabalho:
+Local de trabalho: Colégio Objetivo - Poços de Caldas
 
-Nome:
+Nome: Tatiane Ribas
 
 Interação Semanal/Quinzenal
 
