@@ -19,11 +19,11 @@ O público alvo seria os alunos, como também a escola a primeiro momento escolh
 
 ## Objetivos
 
-O projeto concentrará diversos livros de matérias do âmbito escolar, que por sua vez, proporcionará uma melhor utilização por parte dos alunos. Por meio de um aplicativo e site, poderemos disponibilzar aos doadores inúmeras formas de distribuir materiais que podem se tornar essenciais à quem utilizá-los.
+O projeto consiste na implementação de um aplicativo de celular que vai permitir o reuso de materiais didáticos a partir da doação entre alunos que querem doar e alunos que desejam receber, adotando um intermédio por parte da instituição escolar. Tudo isso visando uma comunicação ágil e uma interface intuitiva que permita uma troca consciente porém sem burocracia.
 
-Alguns livros que são requisitados em vestibulares são caros, e por isso alguns alunos acabam os adquirindo, porém sem condição financeira. Com o aplicativo ou site desenvolvido poderemos oferecer uma grande ajuda aos que necessitam.
+A aplicativo funciona de forma simples: o aluno possui um livro largado no fundo de gaveta e deseja repassá-lo a frente por meio de uma doação. Sendo assim, ele realiza o download do aplicativo e se registrar, o mesmo recebe a opção de cadastrar o material tal deseja doar. Do outro lado, o aluno que está buscando um livro, após se registrar, acessa o banco de livros disponíveis e escolhe o que for de sua necessidade. A partir desse momento o aluno deve se dirigir a escola e retirar o material apresentando identificação ou o código gerado no momento da escolha no aplicativo.
 
-Por meio de autorizações, iremos melhorar a vizualização e a acessibilidade de materiais que são carentes em algumas instituições de ensino. Temos inumeras pessoas que dispõem de incontáveis materiais de estudos, e que por motivos diversos não os utilizam mais e desejam passar a a frente.
+O objetivo principal do projeto, além de evitar o desperdício, é reutilizar os materiais de forma a democratizar o acesso a informação, expandindo cada vez mais os horizontes do conhecimento e ainda contribuindo para o fortalecimento de um ideal de compartilhamento e solidariedade na formação dos jovens dessa geração.
 
 ## Justificativa
 
