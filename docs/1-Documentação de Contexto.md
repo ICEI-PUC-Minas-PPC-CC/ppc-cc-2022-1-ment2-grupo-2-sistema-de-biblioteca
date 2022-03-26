@@ -1,10 +1,12 @@
 # Introdução
 
-É de compreensão geral que, após a escola, os livros e materiais didáticos que anteriormente eram utilizados pelo aluno durante o ano são agora encontrados em um fundo de gaveta e na maior parte das vezes, inutilizados.
+Ainda com o crescimento dos livros em versão digital atualmente, os livros físicos ainda são os donos dos corações da maioria dos leitores. Entretanto, após finalizados, essee livros geralmente vão parar numa estante e dificilmente voltam a serem utilizados, o que gera uma estagnação e acaba causando o acúmulo excessivo de títulos inutilizados. 
 
-Sendo assim, o projeto visa a construção de uma ferramenta que possibilite a reutilização desses materiais através de uma ligação entre alunos que buscam se desfazer dos livros com aqueles que gostariam de receber, de forma a evitar o desperdício e permitir que cada vez mais estudantes tenham acesso a informação, independente da condição.
+Sendo assim, o projeto visa a construção de uma ferramenta que possibilite que os leitores troquem os livros entre si através de um aplicativo de fácil uso. Essa ação permite que cada leitor possa ter acesso a livros que ele nunca leu e, em troca compartilhar com outras pessoas os títulos que ele já finalizou e não tem mais interesse em manter guardado.
 
-Criando um sistema onde alunos e ex-alunos possam se cadastrar, oferecer os livros disponíveis para doação e, do outro lado, um estudante que precise do material possa realizar uma busca e escolher o livro de acordo com a sua necessidade. Nesse processo, o sistema realiza um "match" de oferta e demanda, onde o livro agora pode ser deixado na instituição escolar (que funciona como uma intermediária), aguardando ser retirado pelo aluno.
+Criando um sistema onde as pessoas possam se cadastrar, oferecer os livros disponíveis para troca e, do outro lado, outro leitor que tenha interesse em determinado título possa entrar em contato através do próprio aplicativo para realizar a troca. Nesse processo, o sistema realiza um "match" de oferta e demanda, onde os livros agora podem ser deixados na instituição escolar (que funciona como uma intermediária), aguardando serem retirados.
+
+Dessa forma, após finalizados os livros agora não são mais inutilizados, mas sim passados para frente, impactando cada vez mais pessoas e contribuindo para a difusão desse hábito tão importante.
 
 ## Problema.
 
