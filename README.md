@@ -1,4 +1,4 @@
-# APLICATIVO - DOAÇÃO DE LIVROS
+# APLICATIVO - TROCA DE LIVROS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`
