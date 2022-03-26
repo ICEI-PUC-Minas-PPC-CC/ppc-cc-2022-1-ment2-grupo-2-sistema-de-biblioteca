@@ -18,11 +18,11 @@ Muitas vezes, a compra descontínua de títulos e a acumulação compulsiva pode
 
 ## Objetivos
 
-O projeto consiste na implementação de um aplicativo de celular que vai permitir o reuso de materiais didáticos a partir da doação entre alunos que querem doar e alunos que desejam receber, adotando um intermédio por parte da instituição escolar. Tudo isso visando uma comunicação ágil e uma interface intuitiva que permita uma troca consciente porém sem burocracia.
+O projeto consiste na implementação de um aplicativo de celular que vai permitir a difusão da leitura a partir da troca de livros entre os leitores que já finalizaram o título e querem repassá-lo para obterem novos, utilizando a instituição escolar em questão como intermédio da troca. Tudo isso visando uma comunicação ágil e uma interface intuitiva que permita uma troca consciente porém sem burocracia.
 
-A aplicativo funciona de forma simples: o aluno possui um livro largado no fundo de gaveta e deseja repassá-lo a frente por meio de uma doação. Sendo assim, ele realiza o download do aplicativo e se registrar, o mesmo recebe a opção de cadastrar o material tal deseja doar. Do outro lado, o aluno que está buscando um livro, após se registrar, acessa o banco de livros disponíveis e escolhe o que for de sua necessidade. A partir desse momento o aluno deve se dirigir a escola e retirar o material apresentando identificação ou o código gerado no momento da escolha no aplicativo.
+A aplicativo funciona de forma simples: o aluno possui um livro e deseja repassá-lo a frente pois este já está inutilizado. Sendo assim, ele realiza o download do aplicativo e se registrar, o mesmo recebe a opção de cadastrar os materias ques estão disponíveis para troca. Do outro lado, outro leitor que está buscando determinado livro, após se registrar, acessa o banco de livros disponíveis e escolhe o que for de sua vontade. A partir desse momento, ambos devem se dirigir a escola (não necessariamente juntos) apresentando identificação ou o código gerado no momento da escolha no aplicativo para realizar a troca.
 
-O objetivo principal do projeto, além de evitar o desperdício, é reutilizar os materiais de forma a democratizar o acesso a informação, expandindo cada vez mais os horizontes do conhecimento e ainda contribuindo para o fortalecimento de um ideal de compartilhamento e solidariedade na formação dos jovens dessa geração.
+O objetivo principal do projeto, além de evitar o acúmulo desenfreado, é repassar os materiais de forma a democratizar o acesso a informação, expandindo cada vez mais os horizontes do conhecimento e ainda contribuindo para o fortalecimento de um ideal de compartilhamento e solidariedade na formação dos jovens dessa geração.
 
 ## Justificativa
 
