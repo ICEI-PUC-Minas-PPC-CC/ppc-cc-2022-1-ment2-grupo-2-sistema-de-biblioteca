@@ -8,7 +8,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Mariana de 13 anos, jovem poços caldense de origem humilde, cursou todo o seu ensino funtamental em escolas públicas da cidade.
+Sempre se dedicou muito e gosta de estudar mais do que os outros colegas da sua idade, talvez pela referência da mãe professora do ensino médio. 
+E tendo isso como base de sua formação, Mariana sempre quis um ensino médio de qualidade e por isso, se dedicou muito para
+conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o alcançou entrando na escola Objetivo.
+Porém como os livros que gostaria de ler sobre as novas matérias estão com um valor muito alto para ela no momento,
+e não encontra todos ou com os assuntos que precisa nas bibliotecas e seria bom um sistema onde ela conseguisse esses livros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
