@@ -1,6 +1,6 @@
 # Introdução
 
-Ainda com o crescimento dos livros em versão digital atualmente, os livros físicos ainda são os donos dos corações da maioria dos leitores. Entretanto, após finalizados, essee livros geralmente vão parar numa estante e dificilmente voltam a serem utilizados, o que gera uma estagnação e acaba causando o acúmulo excessivo de títulos inutilizados. 
+Ainda com o crescimento dos livros em versão digital atualmente, os livros físicos ainda são os donos dos corações da maioria dos leitores. Entretanto, após finalizados, esse livros geralmente vão parar numa estante e dificilmente voltam a serem utilizados, o que gera uma estagnação e acaba causando o acúmulo excessivo de títulos inutilizados. 
 
 Sendo assim, o projeto visa a construção de uma ferramenta que possibilite que os leitores troquem os livros entre si através de um aplicativo de fácil uso. Essa ação permite que cada leitor possa ter acesso a livros que ele nunca leu e, em troca compartilhar com outras pessoas os títulos que ele já finalizou e não tem mais interesse em manter guardado.
 
