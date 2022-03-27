@@ -12,7 +12,7 @@ Dessa forma, após finalizados os livros agora não são mais inutilizados, mas 
 
 É de consenso geral que a leitura é um hábito primordial na vida de todos. Entretanto, com exceção dos colecionadores, o livro após ser terminado não tem mais finalidade. Sendo assim, não existe a necessidade de deixá-lo guardado na estante sendo que este poderia ser passado para frente em troca o leitor poderia adquirir outros títulos.
 
-O termo japonês "Tsundoku", originado no século 19 e que pode ser traduzido do japonês analogamente para "acumular mais livros do que você pode ler" ou "comprar livros que você nem vai ler" é uma ótima representação do que o problema se trata. Para mais informações sobre o assunto, segue a seguinte matéria do site eCycle: https://www.ecycle.com.br/tsundoku/.
+O termo japonês "Tsundoku", originado no século 19 e que pode ser traduzido analogamente para "acumular mais livros do que você pode ler" ou "comprar livros que você nem vai ler" é uma ótima representação do que o problema se trata. Para mais informações sobre o assunto, segue a seguinte matéria do site eCycle: https://www.ecycle.com.br/tsundoku/.
 
 Muitas vezes, a compra descontínua de títulos e a acumulação compulsiva pode levar o leitor a obssessão, e não se desfazer de nenhum é um claro indício de que é necessário construir um ideal de compartilhamento e de desapego dos bens materiais.
 
