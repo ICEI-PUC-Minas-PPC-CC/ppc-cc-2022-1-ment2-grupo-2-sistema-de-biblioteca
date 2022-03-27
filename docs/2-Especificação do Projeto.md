@@ -8,12 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Mariana de 13 anos, jovem poços caldense de origem humilde, cursou todo o seu ensino funtamental em escolas públicas da cidade.
+Mariana de 13 anos, jovem poços caldense, cursou todo o seu ensino funtamental em escolas públicas da cidade.
 Sempre se dedicou muito e gosta de estudar mais do que os outros colegas da sua idade, talvez pela referência da mãe professora do ensino médio. 
 E tendo isso como base de sua formação, Mariana sempre quis um ensino médio de qualidade e por isso, se dedicou muito para
 conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o alcançou entrando na escola Objetivo.
-Porém como os livros que gostaria de ler sobre as novas matérias estão com um valor muito alto para ela no momento,
-e não encontra todos ou com os assuntos que precisa nas bibliotecas e seria bom um sistema onde ela conseguisse esses livros.
+Chegando lá Mariana viu que outros como ela gostavam muito de ler, e alguns adptetos do tradicional livro físico ao invés do e-book, e conversando com um desses colegas ela percebeu que muitos livros mencionados por ele, eram os que ela gostaria de ler, porém não tinha como comprar todos naquele momento, Porém ficou pensando mais quantos colegas como aquele teriam livros guardados no fundo da gaveta que ela gostaria de ler.
 
 Entendo melhor o que é uma "persona" com os seguintes links:
 
