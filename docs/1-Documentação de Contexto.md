@@ -18,11 +18,11 @@ Muitas vezes, a compra descontínua de títulos e a acumulação compulsiva pode
 
 ## Objetivos
 
-O projeto consiste na implementação de um aplicativo de celular que vai permitir a difusão da leitura a partir da troca de livros entre os leitores que já finalizaram o título e querem repassá-lo para obterem novos, utilizando a instituição escolar em questão como intermédio da troca. Tudo isso visando uma comunicação ágil e uma interface intuitiva que permita uma troca consciente porém sem burocracia.
+O projeto consiste na implementação de um aplicativo de celular que vai permitir a difusão da leitura a partir da troca de livros entre os leitores que já finalizaram o título e querem repassá-lo para obterem novos, utilizando a instituição escolar em questão como intermédio da troca. Tudo isso visando uma comunicação ágil e uma interface intuitiva que permita uma troca consciente porém livre de burocracia.
 
-A aplicativo funciona de forma simples: o aluno possui um livro e deseja repassá-lo a frente pois este já está inutilizado. Sendo assim, ele realiza o download do aplicativo, se registra e recebe a opção de cadastrar os materias ques estão disponíveis para troca. Do outro lado, outro leitor que está buscando determinado livro, após se registrar, acessa o banco de livros disponíveis e escolhe o que for de sua vontade. A partir desse momento, ambos devem se dirigir a escola (não necessariamente juntos) apresentando identificação ou o código gerado no momento da escolha no aplicativo para realizar a troca.
+O aplicativo funciona de forma simples: o aluno possui um livro e deseja repassá-lo a frente pois este já está inutilizado. Sendo assim, ele realiza o download do aplicativo, se registra e recebe a opção de cadastrar os materiais que estão disponíveis para troca. Do outro lado, outro leitor que está buscando determinado livro, após se registrar, acessa o banco de livros disponíveis e escolhe o que for de sua vontade. A partir desse momento, ambos devem se dirigir a escola (não necessariamente juntos) apresentando identificação ou o código gerado no momento da escolha no aplicativo para realizar a troca.
 
-O objetivo principal do projeto, além de evitar o acúmulo desenfreado, é repassar os materiais de forma a democratizar o acesso a informação, expandindo cada vez mais os horizontes do conhecimento e ainda contribuindo para o fortalecimento de um ideal de compartilhamento e solidariedade na formação dos jovens dessa geração.
+O objetivo principal do projeto, além de evitar o acúmulo desenfreado, é repassar os materiais de forma a democratizar o acesso a informação, expandindo cada vez mais os horizontes do conhecimento e ainda contribuindo para o fortalecimento de um ideal de solidariedade na formação dos jovens dessa geração.
 
 ## Justificativa
 
@@ -30,7 +30,7 @@ A ideia principal de construir um aplicativo de troca de livros surge da necessi
 e tem como premissa possibilitar que os livros, após finalizados, não vão para um fundo de gaveta sem utilidade alguma.
 
 Na casa dos leitores assíduos, muitas vezes são encontradas verdadeiras bibliotecas contendo centenas de títulos empoeirados que nunca vão ser relidos. Por que
-manter objetos de conhecimento tão importantes dessa forma quando existe a possibilidade de passá-los para frente e contribuir com a democratização do conhecimento, além de obter novos conhecimentos através dos livros recebidos na troca?
+manter objetos de conhecimento tão importantes dessa forma quando existe a possibilidade de passá-los para frente e contribuir com a democratização do conhecimento, além de obter novos saberes através dos livros recebidos na troca?
 
 A acumulação de materiais é uma prática desnecessária e que deve ser evitada. Dessa forma, a construção de uma aplicação que permita a realização dessa troca de forma simples e rápida contribui para que o ciclo de vida de um livro seja maior do que apenas compra, leitura e inutilização.
 
