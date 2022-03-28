@@ -14,6 +14,8 @@ E tendo isso como base de sua formação, Mariana sempre quis um ensino médio d
 conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o alcançou entrando na escola Objetivo.
 Chegando lá Mariana viu que outros como ela gostavam muito de ler, e alguns adptetos do tradicional livro físico ao invés do e-book, e conversando com um desses colegas ela percebeu que muitos livros mencionados por ele, eram os que ela gostaria de ler, porém não tinha como comprar todos naquele momento, Porém ficou pensando mais quantos colegas como aquele teriam livros guardados no fundo da gaveta que ela gostaria de ler.
 
+2- Júlia, 17 anos, menina, reside em Poços de Caldas, estudante do terceiro ano do ensino médio no Colégio Objetivo. Gosta muito de ler, por esse motivo está em dúvida entre fazer faculdade de Jornalismo ou Direito. No seu tempo livre além de ler, gosta muito de sair com suas amigas para irem ao parque ou assistir filme. Por problemas financeiros dos pais não está conseguindo manter suas compras mensais de livros, gostaria de uma forma de trocar livros que ela já leu por novas histórias.
+
 
 
 ## Histórias de Usuários
