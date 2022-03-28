@@ -16,6 +16,7 @@ Chegando lá Mariana viu que outros como ela gostavam muito de ler, e alguns adp
 
 2- Júlia, 17 anos, menina, reside em Poços de Caldas, estudante do terceiro ano do ensino médio no Colégio Objetivo. Gosta muito de ler, por esse motivo está em dúvida entre fazer faculdade de Jornalismo ou Direito. No seu tempo livre além de ler, gosta muito de sair com suas amigas para irem ao parque ou assistir filme. Por problemas financeiros dos pais não está conseguindo manter suas compras mensais de livros, gostaria de uma forma de trocar livros que ela já leu por novas histórias.
 
+3- Marcelo tem 29 anos e trabalha como professor de português, sempre incentivou seus alunos a lerem diariamente. Trabalha de segunda a sexta das 07:00 às 14:00 no colégio e das 17:00 às 20:00 da aula particulares para alunos que se preparam para o ENEM. No final de semana aproveita para planejar as aulas da próxima semema, para sair com os amigos, e geralmente todos aos domingos vai almoçar na casa da mãe. Como grande incentivador  da literatura gostaria de poder apresentar aos alunos suas obras favoritas. Acredita que a ideia do aplicativo de troca de livros, mais alunos terão  mais acesso à diversidade de obras.
 
 
 ## Histórias de Usuários
