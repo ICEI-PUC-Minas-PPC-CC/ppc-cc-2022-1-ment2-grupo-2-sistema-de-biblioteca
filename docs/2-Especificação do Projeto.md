@@ -14,15 +14,10 @@ E tendo isso como base de sua formação, Mariana sempre quis um ensino médio d
 conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o alcançou entrando na escola Objetivo.
 Chegando lá Mariana viu que outros como ela gostavam muito de ler, e alguns adptetos do tradicional livro físico ao invés do e-book, e conversando com um desses colegas ela percebeu que muitos livros mencionados por ele, eram os que ela gostaria de ler, porém não tinha como comprar todos naquele momento, Porém ficou pensando mais quantos colegas como aquele teriam livros guardados no fundo da gaveta que ela gostaria de ler.
 
-Entendo melhor o que é uma "persona" com os seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
