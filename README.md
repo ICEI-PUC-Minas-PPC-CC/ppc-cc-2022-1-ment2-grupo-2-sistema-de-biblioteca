@@ -1,4 +1,4 @@
-# APLICATIVO - TROCA DE LIVROS
+# APLICATIVO - BIBLIOTECAS INTEGRADAS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`
