@@ -47,7 +47,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário realize seu cadastro| ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-003| Permitir que o usuário cadastre os livros que deseja trocar   | ALTA |
+|RF-004| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
+|RF-005| Propiciar um sistema de interação entre os usuários   | MÉDIA |
+|RF-006| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
+|RF-007| Exibir histórico de trocas   | ALTA |
 
 
 ### Requisitos não Funcionais
