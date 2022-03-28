@@ -8,18 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Mariana de 13 anos, jovem poços caldense, cursou todo o seu ensino funtamental em escolas públicas da cidade.
+1- Mariana de 13 anos, jovem poços caldense, cursou todo o seu ensino funtamental em escolas públicas da cidade.
 Sempre se dedicou muito e gosta de estudar mais do que os outros colegas da sua idade, talvez pela referência da mãe professora do ensino médio. 
 E tendo isso como base de sua formação, Mariana sempre quis um ensino médio de qualidade e por isso, se dedicou muito para
 conseguir umas das concorridas vagas em escolas particulares da cidade, e ela o alcançou entrando na escola Objetivo.
 Chegando lá Mariana viu que outros como ela gostavam muito de ler, e alguns adptetos do tradicional livro físico ao invés do e-book, e conversando com um desses colegas ela percebeu que muitos livros mencionados por ele, eram os que ela gostaria de ler, porém não tinha como comprar todos naquele momento, Porém ficou pensando mais quantos colegas como aquele teriam livros guardados no fundo da gaveta que ela gostaria de ler.
 
 
-
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
