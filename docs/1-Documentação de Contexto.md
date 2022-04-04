@@ -52,5 +52,5 @@ Local de trabalho: Colégio Objetivo - Poços de Caldas
 
 Nome: Tatiane Ribas
 
-Interação Semanal/Quinzenal
+Interação: Quinzenal
 
