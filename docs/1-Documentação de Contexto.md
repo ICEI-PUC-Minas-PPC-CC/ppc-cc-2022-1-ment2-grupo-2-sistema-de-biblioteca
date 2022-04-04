@@ -44,7 +44,7 @@ Idade: Entre 5 e 17 anos;
 
 Escolaridade: Ensino Fundamental e Médio;
 
-Relação com a tecnologia: Facilidade com o uso de tecnologia. (Aplicativo Mobile e Sites);
+Relação com a tecnologia: Facilidade com o uso da tecnologia. (Aplicativo Mobile e Sites);
 
 ## Contato
 
