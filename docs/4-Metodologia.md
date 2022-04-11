@@ -49,7 +49,7 @@ seria o GIT, e utilizaríamos o github para o armazenamento e gerenciamento das 
 
 [1] Luiz Pedro - Realizou a descrição da documentoação de contexto do projeto, especificação do projeto, projeto de interface, no github e realização do aplicativo na ferramenta figma
 
-[2] Thainara - Realizou a descrição da documentação de contexto do projeto, descrição de persona e realização do aplicativo na ferramenta figma.
+[2] Thainara Gralha - Realizou a descrição da documentação de contexto do projeto, descrição de persona e realização do aplicativo na ferramenta figma.
 
 [3] Leonardo Moraes - Realizou a descrição da documentação de contexto do projeto, criação de persona, descrição da metodologia e montagem e apresentação do Pitch do projeto.
 
@@ -67,7 +67,9 @@ O Scrum de nosso projeto utilizará seguirá a base do tripé, para um projeto b
 
 Product Owner: xxxxxxxxxxxxx
 Scrum Master: xxxxxxxxxxxxxx
-Dev Teanm: Leonardo Moraes, Thainara, Luiz Pedro
+Dev Teanm: Leonardo Moraes, Thainara Gralha, Luiz Pedro
+
+
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
