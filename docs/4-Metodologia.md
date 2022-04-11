@@ -60,6 +60,15 @@ seria o GIT, e utilizaríamos o github para o armazenamento e gerenciamento das 
 
 ### Processo
 
+O Scrum de nosso projeto utilizará seguirá a base do tripé, para um projeto bem exexutado. 
+1 - Transparência (Transparência dos processos, requisitos de entrega de status)
+2 - Inspeção (Inspeção constante e noção de tudo que está sendo feito por todos os menbros do grupo)
+3 - Adaptação ( Adaptação, tanto do processo, quanto do produto ás mudanças)
+
+Product Owner: xxxxxxxxxxxxx
+Scrum Master: xxxxxxxxxxxxxx
+Dev Teanm: Leonardo Moraes, Thainara, Luiz Pedro
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
