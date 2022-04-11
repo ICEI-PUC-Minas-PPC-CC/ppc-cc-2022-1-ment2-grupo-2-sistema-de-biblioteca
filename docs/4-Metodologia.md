@@ -3,7 +3,14 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Seguindo conforme orientado, a metodologia adotada para a implementação do projeto segue uma linha do contato que fizemos
+com uma professora de uma escola do ensino médio da cidade, e comentamos sobre a ideia do projeto, onde achou interessante a proposta
+e gostaria de ver sendo aplicado. Começamos a traçar a ideia do projeto a registrando no Github, para que todos envolvidos tivessem entendimento
+do que se tratava o projeto em si, e começamos a seguir o projeto com um pitch, e também a definição de qual seria a melhor
+implentação do projeto que definimos que seria um projeto recursivo, tanto como aplicativo quando em um website, e começamos o desenvolvimento
+do aplicativo utilizando a ferramenta "FIGMA", e a continuidade do processo será fetia usando o WordPress, gerando assim um aplicativo e
+website que possa rodar e cumprir sua funcionalidade.
+
 
 ## Controle de Versão
 
