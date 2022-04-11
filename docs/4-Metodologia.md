@@ -47,7 +47,11 @@ seria o GIT, e utilizaríamos o github para o armazenamento e gerenciamento das 
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+[1] Luiz Pedro - Realizou a descrição da documentoação de contexto do projeto, especificação do projeto, projeto de interface, no github e realização do aplicativo na ferramenta figma
+
+[2] Thainara - Realizou a descrição da documentação de contexto do projeto, descrição de persona e realização do aplicativo na ferramenta figma.
+
+[3] Leonardo Moraes - Realizou a descrição da documentação de contexto do projeto, criação de persona, descrição da metodologia e montagem e apresentação do Pitch do projeto.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
