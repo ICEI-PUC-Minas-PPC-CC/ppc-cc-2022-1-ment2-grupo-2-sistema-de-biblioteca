@@ -87,6 +87,11 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de comunicação: Whatapp
 - Ferramentas de diagramação: Figma
 
+> **Ferramentas utilizadas para desenvolvimento do projeto**:
+> - [WordPress](https://wordpress.com/)
+> - [Figma](https://figma.com)
+> - [Prezi](https://prezi.com)
+
 A plataforma escolhida para a aplicação do projeto foi escolhido o Wordpress porque ele possui um fácil sistema 
 de montagem da página Web e Mobile.
 As ferramentas de comunicação utilizadas possuem
@@ -94,11 +99,8 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas e uma interface utilizamos o figma, ferramenta por melhor captar as
 necessidades da nossa solução e termos uma primeira tela com interação com o usuário.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**:
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
-> - [WordPress](https://wordpress.com/)
-> - [Figma](https://figma.com)
-> - [Prezi](https://prezi.com)
+
