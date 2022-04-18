@@ -65,8 +65,8 @@ O Scrum de nosso projeto utilizará seguirá a base do tripé, para um projeto b
 2 - Inspeção (Inspeção constante e noção de tudo que está sendo feito por todos os menbros do grupo)
 3 - Adaptação ( Adaptação, tanto do processo, quanto do produto ás mudanças)
 
-Product Owner: xxxxxxxxxxxxx
-Scrum Master: xxxxxxxxxxxxxx
+Product Owner: Luiz Pedro 
+Scrum Master: Leonardo Moraes
 Dev Teanm: Leonardo Moraes, Thainara Gralha, Luiz Pedro
 
 
@@ -83,18 +83,22 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Construção do projeto do projeto: Plataforma WordPress e Github
+- Ferramentas de comunicação: Whatapp
+- Ferramentas de diagramação: Figma
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
+A plataforma escolhida para a aplicação do projeto foi escolhido o Wordpress porque ele possui um fácil sistema 
+de montagem da página Web e Mobile.
+As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+diagramas e uma interface utilizamos o figma, ferramenta por melhor captar as
+necessidades da nossa solução e termos uma primeira tela com interação com o usuário.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
+> - [WordPress](https://wordpress.com/)
+> - [Figma](https://figma.com)
+> - [Prezi](https://prezi.com)
