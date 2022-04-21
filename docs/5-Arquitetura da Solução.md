@@ -72,7 +72,7 @@ já aparece a foto do usuário, e quatro opções:
     foi realizada essa troca, com os dados dos livros que foram trocados e a possivbilidade
     de busca também de um livro em específico.
 
-[4] Comunidade
+[4] Comunidade - (Tela 8)
 
     Uma aba onde temos um sistema de um rede dentro do próprio sistema para os usuários
     tenham um contato com discussões em uma especie´de forúm e minicomunidades, onde podem
