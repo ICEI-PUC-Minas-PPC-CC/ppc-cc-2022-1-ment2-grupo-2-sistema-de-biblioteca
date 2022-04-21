@@ -60,10 +60,7 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
+  Como o objetivo do projeto é desenvolver uma interface web que permita interação entre usuários. Dessa forma, será necessário a utilização de um sistema de gestão para a construção e manutenção do site. Para isso, vamos utilizar a ferramenta WordPress que permite a criação de um site responsivo que será compátivel com ambos sistemas operacionais mobile e, além disso, fazer a inserção do plugin Elementor para a construção de toda a parte visual e gráfica do sistema (além de outros plugins). Além disso, estabeleceremos a conexão do site com um banco de dados MySQL para guardar todas as informações importantes e extrair dados para análise. Para os recursos que não encontrarmos pré-construídos, vamos implementar alguns códigos em HTML, CSS e Javascript para cumprir com os requisitos.
 
 ## Hospedagem
 
