@@ -28,17 +28,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Pesquisar livros no banco          | Poder realizar minhas trocas           |
 |Usuário do sistema  | Acessar meus livros disponíveis    | Para adicionar, alterar e excluir      |
 |Usuário do sistema  | Acessar tópicos da comunidade      | Poder interagir com outros leitores    |
-|Usuário do sistema  | Acessar tópicos da comunidade      | Poder interagir com outros leitores    |
+|Usuário do sistema  | Acessar meu histórico de trocas    | Analisar as trocas anteriores          |
+|Administrador       | Acessar relatório de trocas        | Analisar dados recolhidos semanalmente |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -53,18 +45,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
 |RF-004| Propiciar um sistema de interação entre os usuários   | MÉDIA |
 |RF-005| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
-|RF-006| Estabelecer o contato entre os usuários que realizarão a troca através de um chat   | ALTA |
+|RF-006| Estabelecer o contato entre os usuários que realizarão a troca através de um chat  | ALTA |
 |RF-007| Exibir histórico de trocas   | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser desenvolvido através da web | ALTA | 
+|RNF-001| O sistema deve ser desenvolvido utilizando WordPress | ALTA | 
 |RNF-002| O sistema deve ser responsivo para ter compatibilidade mobile |  ALTA | 
-|RNF-003| O sistema deve não deve possuir módulo backend |  BAIXA | 
-|RNF-004| O sistema deve estar  |  ALTA | 
-
+|RNF-003| O sistema deve possuir conexão com um banco de dados  |  ALTA | 
+|RNF-004| O sistema deve estar hospedado em um servidor online  |  MÉDIA | 
 
 ## Restrições
 
@@ -73,11 +64,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não pode ser desenvolvido um módulo de back-end       |
+|03| O sistema deve possuir interface básica e intuitiva   |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
