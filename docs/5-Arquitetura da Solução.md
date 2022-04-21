@@ -29,31 +29,51 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+Funcionamento do fluxograma que o usuário irá realizar pelo nosso aplicativo.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+(Tela 1) onde ele é  recebido com um "Bem-vindo(a)" confrontado com as opções de entrar caso já possua
+um cadastro na mesma ou então realizar o cadastro.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+Caso opte pela opção "Cadastrar" sera redirecionado(a) para a segunda tela (Tela 2),
+onte pode como todas as demais plataformas ter duas opções de cadastro, o manual
+preenchendo nome, email, criando uma senha e demais informações ou opatar por entrar com 
+o Facebook ou Google. E depois temos uma tela (Tela 2.1) que mostra apenas uma mensagem agredecendo
+o usuário pelo cadastro e clicando em concluir ele é direcionado para a tela "Home" (Tela 4).
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Caso opte pela opção "Entrar" será redirecionado(a) para a terceira tela (Tela 3),
+onde terá a opção de de digitar seu email e a senha castradas para entrar na plataforma
+caso já tenha feito o cadastro anteriormente e também lhe são apresentados duas opções,
+para facilitar o acesso, opções comuns en outras plataformas qeu são entrar na nossa
+plataforma com os dados de uma outra rede social, aqui no caso com o "Facebook" e "Google".
+E clicando em entrar é direcionado para a tela "Home" (Tela 4)
+
+Na tela principal, a tela "Home" (Tela 4), temos algumas opções dentro da plataforma,
+já aparece a foto do usuário, e quatro opções: 
+
+[1] Buscar Livros - (Tela 5)
+    Entrando nessa opção o usuário irá visualizar uma interface onde ele tem um item de busca
+    onde pode pesquisar por um livro em específico que gostaria e opções de filtrar os livros
+    por gêneros literários facilitando assim a sua busca na plataforma.
+    
+[2] Meus Livros - (Tela 6)
+    Escolhendo essa opção, existe a possibilidade de também de busca por um livro que o 
+    próprio usuário já cadastrou. Ele pode adicionar um novo livro no sistema e remover
+    um também caso já tenha sido ocorrida a troca.
+    E também um registro de todos os livros que foram adicionados, ficando organizando com o 
+    título do livro, autor e a data da disponibildiade.
+    
+[3] Minhas Trocas - (Tela 7)
+    Tela onde o usuário verá todas as trocas que foram feitas, com a data, e com quem
+    foi realizada essa troca, com os dados dos livros que foram trocados e a possivbilidade
+    de busca também de um livro em específico.
+
+[4] Comunidade
+    Uma aba onde temos um sistema de um rede dentro do próprio sistema para os usuários
+    tenham um contato com discussões em uma especie´de forúm e minicomunidades, onde podem
+    ser levantados tópicos sobre terminados livros, resenhas, entendimentos e demais itens.
+_____________________________________________________________________________________________
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
