@@ -53,11 +53,13 @@ Na tela principal, a tela "Home" (Tela 4), temos algumas opções dentro da plat
 já aparece a foto do usuário, e quatro opções: 
 
 [1] Buscar Livros - (Tela 5)
+
     Entrando nessa opção o usuário irá visualizar uma interface onde ele tem um item de busca
     onde pode pesquisar por um livro em específico que gostaria e opções de filtrar os livros
     por gêneros literários facilitando assim a sua busca na plataforma.
     
 [2] Meus Livros - (Tela 6)
+
     Escolhendo essa opção, existe a possibilidade de também de busca por um livro que o 
     próprio usuário já cadastrou. Ele pode adicionar um novo livro no sistema e remover
     um também caso já tenha sido ocorrida a troca.
@@ -65,11 +67,13 @@ já aparece a foto do usuário, e quatro opções:
     título do livro, autor e a data da disponibildiade.
     
 [3] Minhas Trocas - (Tela 7)
+
     Tela onde o usuário verá todas as trocas que foram feitas, com a data, e com quem
     foi realizada essa troca, com os dados dos livros que foram trocados e a possivbilidade
     de busca também de um livro em específico.
 
 [4] Comunidade
+
     Uma aba onde temos um sistema de um rede dentro do próprio sistema para os usuários
     tenham um contato com discussões em uma especie´de forúm e minicomunidades, onde podem
     ser levantados tópicos sobre terminados livros, resenhas, entendimentos e demais itens.
