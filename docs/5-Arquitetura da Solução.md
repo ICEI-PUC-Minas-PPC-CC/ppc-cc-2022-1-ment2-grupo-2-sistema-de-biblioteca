@@ -33,7 +33,7 @@ Funcionamento do fluxograma que o usuário irá realizar pelo nosso aplicativo.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é  recebido com um "Bem-vindo(a)" confrontado com as opções de entrar caso já possua
+(Tela 1), onde ele é  recebido com um "Bem-vindo(a)" confrontado com as opções de entrar caso já possua
 um cadastro na mesma ou então realizar o cadastro.
 
 Caso opte pela opção "Cadastrar" sera redirecionado(a) para a segunda tela (Tela 2),
