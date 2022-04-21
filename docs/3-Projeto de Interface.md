@@ -5,11 +5,13 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+As interfaces foram realizadas para atender a demanda vista no projeto de maneira fácil e objetiva.
+Buscamos um fluxo simples e orgânico para que o usuário entenda todos os passos que estão sendo realizados, conforme o estudo sobre as personas do projeto, disponível em "<a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.", buscamos atender o item falado sobre como encontrar alguém que tenha o interesse de doar ou receber um determinado material, criar um registro das trocar, e um banco de dados com todos os itens disponíveis.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Exemplo de UserFlow] ![Sistema](https://user-images.githubusercontent.com/101149223/164564975-da761093-4d91-4466-be8b-8a804f1b0e6e.PNG)
+
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
