@@ -48,21 +48,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário realize seu cadastro| ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Permitir que o usuário cadastre os livros que deseja trocar   | ALTA |
-|RF-004| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
-|RF-005| Propiciar um sistema de interação entre os usuários   | MÉDIA |
-|RF-006| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
-|RF-007| Exibir histórico de trocas   | ALTA |
-
+|RF-001| Permitir que o usuário realize seu cadastro | ALTA | 
+|RF-002| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
+|RF-003| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
+|RF-004| Propiciar um sistema de interação entre os usuários   | MÉDIA |
+|RF-005| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
+|RF-006| Estabelecer o contato entre os usuários que realizarão a troca através de um chat   | ALTA |
+|RF-007| Exibir histórico de trocas   | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve estar disponível para IOS e Android | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser desenvolvido através da web | ALTA | 
+|RNF-002| O sistema deve ser responsivo para ter compatibilidade mobile |  ALTA | 
+|RNF-003| O sistema deve não deve possuir módulo backend |  BAIXA | 
+|RNF-004| O sistema deve estar  |  ALTA | 
 
 
 ## Restrições
