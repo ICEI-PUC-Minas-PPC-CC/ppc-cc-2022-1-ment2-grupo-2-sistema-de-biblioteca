@@ -79,8 +79,7 @@ já aparece a foto do usuário, e quatro opções:
     ser levantados tópicos sobre terminados livros, resenhas, entendimentos e demais itens.
 _____________________________________________________________________________________________
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
+![Exemplo de UserFlow]![Sistema](https://user-images.githubusercontent.com/101149223/164539423-29313ef5-f18e-41f7-9d38-39f4bf496e1c.PNG)
 
 ## Tecnologias Utilizadas
 
