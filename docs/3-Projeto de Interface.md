@@ -31,7 +31,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
+> - [Figma](https://www.figma.com/proto/lpnGysieATfC5bUv2CQsnX/APP---Mentoring-team-library?node-id=411%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=411%3A2)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [Axure](https://www.axure.com/edu) (Licença Educacional)
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
