@@ -7,15 +7,6 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
 
-### Teste de Software
-
-|Caso de teste | Descrição do Requisito  | 
-|------|-----------------------------------------|----|
-|Requisitos Associados| Permitir que o usuário realize seu cadastro | 
-|Objeto de teste| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | 
-|Passos| Buscar e filtrar os livros do banco de livros disponíveis   | 
-|Critérios de Êxito| Propiciar um sistema de interação entre os usuários   | 
-
 
  
 > **Links Úteis**:
