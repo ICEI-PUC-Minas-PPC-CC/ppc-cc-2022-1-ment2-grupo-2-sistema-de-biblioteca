@@ -11,10 +11,16 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 |Curso de Teste    | Login Inicial  | Prioridade |
 |------|-----------------------------------------|----|
-|Requisitos Associados| Permitir que o usuário realize seu cadastro | ALTA | 
-|Objetivo do Teste| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
-|Passos| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
-|Critérios de Êxito| Propiciar um sistema de interação entre os usuários   | MÉDIA |
+|Requisitos Associados| Permitir que o usuário tenha logo no começo a experiência assim que acessar o site e será exibido o botão para entrar e para realizar o login  | ALTA | 
+|Objetivo do Teste| Verificar o acesso ao site que está online mesmo que ainda não finalizado  | ALTA |
+|Passos| 1) Acessar o navegador
+         2) Informar o endereço
+         3) Visualizar a página principal| ALTA |
+|Critérios de Êxito|  . Conseguir acessar o site pelo navegador
+                      . Conseguir realizar o longin na tela inicial
+                      . Entrar na "HOME", onde poderá ir para as demais                           funcionalidades do programa| ALTA |
+
+
 
  
 > **Links Úteis**:
