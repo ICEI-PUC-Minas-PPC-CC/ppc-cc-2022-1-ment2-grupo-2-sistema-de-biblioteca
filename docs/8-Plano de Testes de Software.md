@@ -13,9 +13,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 |------|-----------------------------------------|----|
 |Requisitos Associados| Permitir que o usuário tenha logo no começo a experiência assim que acessar o site e será exibido o botão para entrar e para realizar o login  | ALTA | 
 |Objetivo do Teste| Verificar o acesso ao site que está online mesmo que ainda não finalizado  | ALTA |
-|Passos| 1) Acessar o navegador
+|Passos| 
+         1) Acessar o navegador
          2) Informar o endereço
          3) Visualizar a página principal| ALTA |
+         
 |Critérios de Êxito|  . Conseguir acessar o site pelo navegador . Conseguir realizar o longin na tela inicial . Entrar na "HOME", onde poderá ir para as demais funcionalidades do programa| ALTA |
 
 
