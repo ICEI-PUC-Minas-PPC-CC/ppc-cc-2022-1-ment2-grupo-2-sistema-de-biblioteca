@@ -10,7 +10,7 @@
 - LUIZ PEDRO (35) 9 9845-8696
 - LEONARDO MORAES (35) 9 9231-6059
 
-## CONTATO
+## Contato
 - Professora Tatiane Ribas 
 - Número: (35) 9 9829-1470 
 - Escola: Objetivo
