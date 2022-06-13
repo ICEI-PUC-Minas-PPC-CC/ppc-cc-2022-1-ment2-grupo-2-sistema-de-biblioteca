@@ -18,7 +18,9 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
          2) Informar o endereço
          3) Visualizar a página principal| ALTA |
          
-|Critérios de Êxito|  . Conseguir acessar o site pelo navegador . Conseguir realizar o longin na tela inicial . Entrar na "HOME", onde poderá ir para as demais funcionalidades do programa| ALTA |
+|Critérios de Êxito|  . Conseguir acessar o site pelo navegador 
+                      . Conseguir realizar o longin na tela inicial
+                      . Entrar na "HOME", onde poderá ir para as demais funcionalidades do programa| ALTA |
 
 
 
