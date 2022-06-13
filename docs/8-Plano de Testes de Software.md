@@ -9,12 +9,12 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 ### Teste de Software
 
-|Caso de teste | Descrição do Requisito  | Prioridade |
+|Caso de teste | Descrição do Requisito  | 
 |------|-----------------------------------------|----|
-|Requisitos Associados| Permitir que o usuário realize seu cadastro | ALTA | 
-|Objeto de teste| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
-|Passos| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
-|Critérios de Êxito| Propiciar um sistema de interação entre os usuários   | MÉDIA |
+|Requisitos Associados| Permitir que o usuário realize seu cadastro | 
+|Objeto de teste| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | 
+|Passos| Buscar e filtrar os livros do banco de livros disponíveis   | 
+|Critérios de Êxito| Propiciar um sistema de interação entre os usuários   | 
 
 
  
