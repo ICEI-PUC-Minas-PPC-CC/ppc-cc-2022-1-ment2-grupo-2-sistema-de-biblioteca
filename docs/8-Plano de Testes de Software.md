@@ -7,6 +7,18 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
 
+### Teste de Software
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário realize seu cadastro | ALTA | 
+|RF-002| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
+|RF-003| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
+|RF-004| Propiciar um sistema de interação entre os usuários   | MÉDIA |
+|RF-005| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
+|RF-006| Estabelecer o contato entre os usuários que realizarão a troca através de um chat  | ALTA |
+|RF-007| Exibir histórico de trocas   | MÉDIA |
+
 
  
 > **Links Úteis**:
