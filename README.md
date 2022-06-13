@@ -6,9 +6,9 @@
 
 ## Integrantes
 
-- THAINARA GRALHA (34) 9 8834-4498
-- LUIZ PEDRO (35) 9 9845-8696
-- LEONARDO MORAES (35) 9 9231-6059
+- Thainara Gralha (34) 9 8834-4498
+- Luiz Pedro Marques (35) 9 9845-8696
+- Leonardo Moraes (35) 9 9231-6059
 
 ## Contato
 - Professora Tatiane Ribas 
