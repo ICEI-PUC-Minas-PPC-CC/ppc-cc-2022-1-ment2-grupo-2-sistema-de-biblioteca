@@ -9,16 +9,12 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 ### Teste de Software
 
-|ID    | Descrição do Requisito  | Prioridade |
+|Curso de Teste    | Login Inicial  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário realize seu cadastro | ALTA | 
-|RF-002| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
-|RF-003| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
-|RF-004| Propiciar um sistema de interação entre os usuários   | MÉDIA |
-|RF-005| Permitir que o usuário personalize seu perfil e altere seus dados   | MÉDIA |
-|RF-006| Estabelecer o contato entre os usuários que realizarão a troca através de um chat  | ALTA |
-|RF-007| Exibir histórico de trocas   | MÉDIA |
-
+|Requisitos Associados| Permitir que o usuário realize seu cadastro | ALTA | 
+|Objetivo do Teste| Permitir que o usuário cadastre, altere e remova os livros que deseja trocar   | ALTA |
+|Passos| Buscar e filtrar os livros do banco de livros disponíveis   | ALTA |
+|Critérios de Êxito| Propiciar um sistema de interação entre os usuários   | MÉDIA |
 
  
 > **Links Úteis**:
