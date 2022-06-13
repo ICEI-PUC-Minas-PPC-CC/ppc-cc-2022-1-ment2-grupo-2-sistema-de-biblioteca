@@ -18,4 +18,4 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 > - [WordPress](https://portflioluizpedro.000webhostapp.com/wp-admin/edit.php?post_type=page)
-> - [WordPress](https://portflioluizpedro.000webhostapp.com/)
+> - [WordPress - Tela](https://portflioluizpedro.000webhostapp.com/)
