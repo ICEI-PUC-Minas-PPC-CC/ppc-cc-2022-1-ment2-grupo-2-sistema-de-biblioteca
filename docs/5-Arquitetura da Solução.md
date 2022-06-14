@@ -79,7 +79,10 @@ já aparece a foto do usuário, e quatro opções:
     ser levantados tópicos sobre terminados livros, resenhas, entendimentos e demais itens.
 _____________________________________________________________________________________________
 
-![Exemplo de UserFlow]![Sistema](https://user-images.githubusercontent.com/101149223/164539423-29313ef5-f18e-41f7-9d38-39f4bf496e1c.PNG)
+## User Flow: Sistema de Biblioteca
+![image](https://user-images.githubusercontent.com/101372028/173470243-9b781629-7e96-41d7-b788-5c505f8a0056.png)
+
+Link User Flow (tamanho grande): https://app.flowmapp.com/share/f5fd0adf1169446fe324820c8bf50dcc/userflow/192060/
 
 ## Tecnologias Utilizadas
 
