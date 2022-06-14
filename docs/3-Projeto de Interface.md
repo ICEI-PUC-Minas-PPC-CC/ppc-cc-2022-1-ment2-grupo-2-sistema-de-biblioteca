@@ -12,5 +12,5 @@ Buscamos um fluxo simples e orgânico para que o usuário entenda todos os passo
 ![image](https://user-images.githubusercontent.com/101372028/173469749-8ccb9d67-5b29-4b18-abfc-ba6995b631e7.png)
 
 
-## Link userflow (tamanho grande)
+## Link User Flow (tamanho grande)
 https://app.flowmapp.com/share/f5fd0adf1169446fe324820c8bf50dcc/userflow/192060/
