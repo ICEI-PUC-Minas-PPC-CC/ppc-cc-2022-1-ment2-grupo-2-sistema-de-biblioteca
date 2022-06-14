@@ -22,7 +22,19 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
                       . Conseguir realizar o longin na tela inicial
                       . Entrar na "HOME", onde poderá ir para as demais funcionalidades do programa| ALTA |
 
-
+|Curso de Teste    | Adicionar Livro  | Prioridade |
+|------|-----------------------------------------|----|
+|Requisitos Associados| Permitir que o usuário adicione um novo livro, colocando-o disponível para trocas  | ALTA | 
+|Objetivo do Teste| Cadastrar um Novo Livro  | ALTA |
+|Passos| 
+         1) Conseguir acessar o site pelo navegador 
+         2) Acessar a página inicial
+         3) Entrar na aba de MEUS LIVROS
+         4) Apertar em ADICIONAR LIVRO
+         5) Prosseguir para o preenchimento do formulário com as informações do livro
+         6) Concluir a adição apertando em ADICIONAR LIVRO.
+         
+|Critérios de Êxito|  . O livro vai ser cadastrado e ficará disponível para trocas
 
  
 > **Links Úteis**:
