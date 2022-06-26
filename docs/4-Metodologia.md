@@ -50,9 +50,9 @@ O Scrum de nosso projeto utilizará seguirá a base do tripé, para um projeto b
 2 - Inspeção (Inspeção constante e noção de tudo que está sendo feito por todos os menbros do grupo)
 3 - Adaptação ( Adaptação, tanto do processo, quanto do produto ás mudanças)
 
-Product Owner: Luiz Pedro 
-Scrum Master: Leonardo Moraes
-Dev Team: Leonardo Moraes, Thainara Gralha, Luiz Pedro
+-Product Owner: Luiz Pedro 
+-Scrum Master: Leonardo Moraes
+-Dev Team: Leonardo Moraes, Thainara Gralha, Luiz Pedro
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
 
