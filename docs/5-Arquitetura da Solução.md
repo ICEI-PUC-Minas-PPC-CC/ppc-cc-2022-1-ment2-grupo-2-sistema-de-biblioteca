@@ -77,10 +77,9 @@ já aparece a foto do usuário, e quatro opções:
     ser levantados tópicos sobre terminados livros, resenhas, entendimentos e demais itens.
 _____________________________________________________________________________________________
 
-## User Flow: Sistema de Biblioteca
-![image](https://user-images.githubusercontent.com/101372028/173470243-9b781629-7e96-41d7-b788-5c505f8a0056.png)
+##Sistema de Biblioteca
+![WhatsApp Image 2022-06-26 at 20 20 15](https://user-images.githubusercontent.com/101372028/175837728-caa96cff-e5df-4d33-9b67-e2bb037dbcfa.jpeg)
 
-Link User Flow (tamanho grande): https://app.flowmapp.com/share/f5fd0adf1169446fe324820c8bf50dcc/userflow/192060/
 
 ## Tecnologias Utilizadas
 
