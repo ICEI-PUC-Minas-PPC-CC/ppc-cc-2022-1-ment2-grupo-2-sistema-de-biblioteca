@@ -78,9 +78,3 @@ As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas e uma interface utilizamos o figma, ferramenta por melhor captar as
 necessidades da nossa solução e termos uma primeira tela com interação com o usuário.
-
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
-
