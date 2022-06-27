@@ -1,7 +1,7 @@
 # Registro de Testes de Software
 
-Caso de teste 1: Login Usuário
-- O site deve permitir que o usuário faça o login para utilizar os recursos da plataforma
+- Teste 1: Login Usuário
+    O site deve permitir que o usuário faça o login para utilizar os recursos da plataforma
 
         1 - Acessar o site;
         2 - Clicar em Entrar;
@@ -11,8 +11,8 @@ Caso de teste 1: Login Usuário
 Critérios de êxito: O site deve ser redirecionado para a página "Home"
 
 
-Caso de teste 2: Cadastro Usuário
-- O site deve permitir que o usuário faça o cadastro para começar utilizar os recursos da plataforma
+- Teste 2: Cadastro Usuário
+    O site deve permitir que o usuário faça o cadastro para começar utilizar os recursos da plataforma
 
         1 - Acessar o site;
         2 - Clicar em "Cadastro";
