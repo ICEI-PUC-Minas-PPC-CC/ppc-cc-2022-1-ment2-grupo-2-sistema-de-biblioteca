@@ -90,5 +90,3 @@ ________________________________________________________________________________
 ## Hospedagem
 
 A plataforma foi realizada no Figma e será lançada pelo Wordpress
-Explique como a hospedagem e o lançamento da plataforma foi feita. **
-
