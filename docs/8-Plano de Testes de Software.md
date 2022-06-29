@@ -6,24 +6,43 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 ### Teste de Software
 
+|Curso de Teste    | Cadastro  | Prioridade |
+|------|-----------------------------------------|----|
+|Requisitos Associados| Permitir que o usuário cadastre seu e-mail para começar a ter acesso as funcionalidades do site  | ALTA | 
+|Objetivo do Teste| Verificar o acesso ao site que está online mesmo que ainda não finalizado  | ALTA |
+
+Passos :
+       
+       1 - Acessar o site -> (https://portflioluizpedro.000webhostapp.com)
+       2 - Clicar em "Cadastrar"
+       3 - Informar os dados necessários (nome,e-mail,senha)
+       4 - Clicar no comando "Register" 
+ 
+ |Critérios de Êxito|  . Conseguir cadastrar o usuário  | ALTA |
+
+    
 |Curso de Teste    | Login Inicial  | Prioridade |
 |------|-----------------------------------------|----|
 |Requisitos Associados| Permitir que o usuário tenha logo no começo a experiência assim que acessar o site e será exibido o botão para entrar e para realizar o login  | ALTA | 
 |Objetivo do Teste| Verificar o acesso ao site que está online mesmo que ainda não finalizado  | ALTA |
-|Passos| 
-         1) Acessar o navegador
-         2) Informar o endereço
-         3) Visualizar a página principal| ALTA |
+
+Passos :
+       
+       1 - Acessar o site -> (https://portflioluizpedro.000webhostapp.com)
+       2 - Clicar em "Entrar"
+       3 - Informar os dados cadastrados anteriormente
+       4 - Clicar no comando "Log In" 
+       5- Entrar na página principal "Home"
+     
          
-|Critérios de Êxito|  . Conseguir acessar o site pelo navegador 
-                      . Conseguir realizar o longin na tela inicial
-                      . Entrar na "HOME", onde poderá ir para as demais funcionalidades do programa| ALTA |
+|Critérios de Êxito|  . Conseguir acessar o site e após realizar o login entrar na página principal "Home",  onde irá ter  acesso as demais funcionalidades do programa| ALTA |
 
 |Curso de Teste    | Adicionar Livro  | Prioridade |
 |------|-----------------------------------------|----|
 |Requisitos Associados| Permitir que o usuário adicione um novo livro, colocando-o disponível para trocas  | ALTA | 
 |Objetivo do Teste| Cadastrar um Novo Livro  | ALTA |
-|Passos| 
+
+Passos:
          1) Conseguir acessar o site pelo navegador 
          2) Acessar a página inicial
          3) Entrar na aba de MEUS LIVROS
