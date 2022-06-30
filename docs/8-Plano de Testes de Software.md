@@ -73,7 +73,6 @@ Passos :
 |Critérios de Êxito|  . Visualizar os comentarios em comunidade   
  
  
-> **Links Úteis**:
+> **Link*:
 
-> - [WordPress](https://portflioluizpedro.000webhostapp.com/wp-admin/edit.php?post_type=page)
-> - [WordPress - Tela](https://portflioluizpedro.000webhostapp.com/)
+> - [WordPress](https://portflioluizpedro.000webhostapp.com/elementor-223)
