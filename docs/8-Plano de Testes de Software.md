@@ -73,6 +73,6 @@ Passos :
 |Critérios de Êxito|  . Visualizar os comentarios em comunidade   
  
  
-> **Link*:
+> **Link**:
 
 > - [WordPress](https://portflioluizpedro.000webhostapp.com/elementor-223)
