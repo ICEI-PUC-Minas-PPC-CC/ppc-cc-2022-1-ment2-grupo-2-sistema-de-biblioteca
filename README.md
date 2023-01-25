@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Thainara Gralha (34) 9 8834-4498
-- Luiz Pedro Marques (35) 9 9845-8696
+- Luiz Pedro Marques (35) 9 9845-8596
 - Leonardo Moraes (35) 9 9231-6059
 
 ## Contato
